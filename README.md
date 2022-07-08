@@ -1,6 +1,6 @@
 ### Hello! I'm Nino 👋
 
-- 🌱 I’m currently learning bootstrap and react
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on front end development
 
 ##
