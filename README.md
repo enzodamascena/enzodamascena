@@ -1,6 +1,6 @@
 ### Hello! I'm Nino 👋
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Node
 - 👯 I’m looking to collaborate on front end development
 
 ##
