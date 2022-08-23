@@ -1,7 +1,7 @@
-### Hello! I'm Nino 👋
+### Olá tudo bem? sou o Enzo 👋
 
-- 🌱 I’m currently learning React and Node
-- 👯 I’m looking to collaborate on front end development
+- 🌱 Atualmente estou focado em React native
+- 👯 Busco trabalhar como desenvolvedor Fron-end
 
 ##
 
