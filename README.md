@@ -1,6 +1,6 @@
-### Olá tudo bem? sou o Enzo 👋
+### Olá tudo bem 👋
 
-- 🌱 Atualmente estou focado em React native
+- 🌱 Atualmente estou focado em React native e ReactJS
 - 👯 Busco trabalhar como desenvolvedor Fron-end
 
 ##
