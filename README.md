@@ -1,4 +1,4 @@
-### Olá tudo bem 👋
+### Bem-vindo ao meu Github, aqui você pode dar uma olhadinha nos meus projetos divitar-se 👋
 
 - 🌱 Atualmente estou focado em React Native e ReactJS
 - 👯 Busco trabalhar como desenvolvedor Front-end
