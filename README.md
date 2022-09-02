@@ -1,6 +1,6 @@
 ### Olá tudo bem 👋
 
-- 🌱 Atualmente estou focado em React native e ReactJS
+- 🌱 Atualmente estou focado em React Native e ReactJS
 - 👯 Busco trabalhar como desenvolvedor Front-end
 
 ##
