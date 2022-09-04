@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu GitHub, aqui você pode dar uma olhadinha nos meus projetos. Divitar-se 👋
 
-Sou um Desenvolvedor React Native apaixonado pela desenvolvimento mobile e aluno do Ignite da Rocketseat onde aprendo as tecnologias mais modernas da Mobile/Web
+Sou um Desenvolvedor React Native apaixonado pela desenvolvimento mobile e aluno do Ignite da Rocketseat onde aprendo as tecnologias mais modernas para construir telas e interfaces do Mobile/Web
 
 - 🌱 Atualmente estou focado em React Native e TypeScript
 
