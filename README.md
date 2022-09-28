@@ -7,6 +7,8 @@ onde aprendo as mais modernas tecnologias e suas mais performáticas utilizaçõ
 
 - 🌱 Atualmente estou focado em React Native e TypeScript
 
+</br>
+
 <h2 align="left"><strong> Tech Skills </strong></h2>
 
 </br>
@@ -35,7 +37,8 @@ onde aprendo as mais modernas tecnologias e suas mais performáticas utilizaçõ
 </div>
 
 </br>
-</br>
+
+<h2 align="center"><strong> Info </strong></h2>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/enzo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
