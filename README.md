@@ -11,8 +11,6 @@ onde aprendo as mais modernas tecnologias e suas mais performáticas utilizaçõ
 
 <h2 align="left"><strong> Tech Skills </strong></h2>
 
-</br>
-
 <div width="80em">
 
 </div>
