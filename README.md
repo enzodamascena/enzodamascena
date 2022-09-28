@@ -1,4 +1,4 @@
-### Bem-vindo ao meu GitHub, aqui você pode dar uma olhadinha nos meus projetos. Divitar-se 👋
+## Tudo tranquilo ? Meu nome é Enzo, mas pode me chamar de Nino
 
 Sou um Desenvolvedor React Native apaixonado pelo desenvolvimento mobile e aluno do Ignite da Rocketseat 
 onde aprendo as tecnologias mais modernas para construção de telas e interfaces do Mobile
