@@ -21,8 +21,6 @@ onde aprendo as mais modernas tecnologias e suas mais performáticas utilizaçõ
 
 </br>
 
-<h2 align="center"><strong> Stats </strong></h2>
-
 </br>
 
 <div width="100%" align="center">
