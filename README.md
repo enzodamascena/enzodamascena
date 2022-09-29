@@ -1,5 +1,5 @@
 <h1 align="center">
-  const myName = 'Enzo'
+  const myName = 'Enzo';
 </h1>
 
 Sou um Desenvolvedor Mobile entusiasta do React Native e aluno do Ignite da Rocketseat 
