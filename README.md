@@ -25,7 +25,7 @@ onde aprendo as mais modernas tecnologias e as maneiras mais performáticas de u
 
 <div width="100%" align="center">
   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninodev30&theme=github_dark"/>
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninodev30&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninodev30&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 </br>
