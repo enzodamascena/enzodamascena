@@ -3,7 +3,7 @@
 </h1>
 
 Sou um Desenvolvedor Mobile entusiasta do React Native e aluno do Ignite da Rocketseat 
-onde aprendo as mais modernas tecnologias e as maneiras mais performáticas de utilizá-las na construção de interfaces do Mobile/Web
+onde aprendo como utilizar de forma mais performática as principais tecnologias do React Native na construção de interfaces do Mobile
 
 - 🌱 Atualmente estou focado em React Native e TypeScript
 
