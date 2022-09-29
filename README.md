@@ -1,6 +1,6 @@
-<h1 align="center">
-  const myName = 'Enzo';
-</h1>
+```ts
+  const myName: string = 'Enzo';
+```
 
 Sou um Desenvolvedor Mobile entusiasta do React Native e aluno do Ignite da Rocketseat 
 onde aprendo como utilizar de forma mais performática as principais tecnologias do React Native na construção de interfaces no Mobile
