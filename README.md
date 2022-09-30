@@ -3,7 +3,7 @@ const me = {
     name: 'Enzo',
     hability: 'Mobile Developer',
     mainSkills: [ 'React Native', 'TypeScript' ],
-    softSkils: [ 'creativity', 'determination', 'growth' ]
+    softSkills: [ 'creativity', 'determination', 'growth' ]
 };
 ```
 
