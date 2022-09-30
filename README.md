@@ -5,7 +5,7 @@ const me = {
   mainSkills: ['React Native', 'TypeScript'],
   softSkills: ['criatividade', 'determinação', 'crescimento'],
   summary: `Sou um Desenvolvedor Mobile entusiasta do React Native, aqui estão alguns dos meus projetos
-    desde o primeiro mais básico que surgiu da ideia de construir uma "calculadora nutricional" onde só utilizei HTML,CSS E JS
+    desde o primeiro que surgiu da ideia de construir uma "calculadora nutricional" onde só utilizei HTML,CSS E JS
     até quando comecei no React, depois quando aprendi a implementar navegação entre telas no projeto "space-tourism"
     e logo após iniciei no React Native desenvolendo a "TodoList", atualmente estou trabalhando no aplicativo "daily-diet"
     que certamente é o maior e melhor que já desenvolvi até agora`
