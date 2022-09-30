@@ -1,9 +1,9 @@
 ```js
 const me = {
-    name : 'Enzo',
-    hability : 'Mobile Developer',
-    mainSkills : [ 'React Native', 'TypeScript' ],
-    softSkils : [ 'creativity', 'determination', 'growth' ]
+    name: 'Enzo',
+    hability: 'Mobile Developer',
+    mainSkills: [ 'React Native', 'TypeScript' ],
+    softSkils: [ 'creativity', 'determination', 'growth' ]
 };
 ```
 
