@@ -2,8 +2,7 @@
   const myName: string = 'Enzo';
 ```
 
-Sou um Desenvolvedor Mobile entusiasta do React Native e aluno do Ignite da Rocketseat 
-onde aprendo como utilizar de forma mais performática as principais tecnologias do React Native na construção de interfaces no Mobile
+Sou um Desenvolvedor Mobile entusiasta do React Native, aqui estão alguns dos meus projetos desde o primeiro mais básico que surgiu de uma ideia de construir uma "calculadora nutricional" onde só utilizei HTML,CSS E JS até quando comecei no React, depois quando aprendi a construir navegação entre telas no projeto "space-tourism" , logo após iniciei no React Native desenvolendo a "TodoList" e atualmente estou construindo o projeto "daily-diet" que sem dúvida é o maior e melhor que já desenvolvi até agora 
 
 - 🌱 Atualmente estou focado em React Native e TypeScript
 
