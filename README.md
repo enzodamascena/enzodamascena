@@ -8,7 +8,7 @@ const me = {
     desde o primeiro que surgiu da ideia de construir uma "calculadora nutricional" onde só utilizei HTML,CSS e JavaScript
     até quando comecei no ReactJS, depois quando aprendi a implementar navegação entre telas no projeto "space-tourism"
     e logo após iniciei no React Native desenvolendo a "TodoList", atualmente estou trabalhando no aplicativo "daily-diet"
-    que certamente é o maior e melhor que já desenvolvi até agora`
+    que certamente é o maior que já desenvolvi até agora`
 };
 ```
 
