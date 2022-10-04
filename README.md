@@ -1,16 +1,11 @@
 <h2 align='center'>
-    Olá! eu sou o Enzo
+    Olá!
 </h2>
 
-```js
-const me = {
-    speciality: 'Desenvolvimento Mobile',
-    mainSkills: ['React Native', 'TypeScript'],
-    softSkills: ['criatividade', 'determinação', 'crescimento']
-}
-```
 
 Sou um Desenvolvedor Mobile entusiasta do React Native, aqui estão alguns dos meus projetos desde o primeiro que surgiu da ideia de construir uma "calculadora nutricional" onde só utilizei HTML,CSS e JavaScript até quando comecei no ReactJS, depois quando aprendi a implementar navegação entre telas no projeto "space-tourism" e logo após iniciei no React Native desenvolendo a "TodoList", atualmente estou trabalhando no aplicativo "daily-diet" que certamente é o maior que já desenvolvi até agora
+
+- 🔭 Atualmente estou focado em React Native e TypeScript.
 
 </br>
 
