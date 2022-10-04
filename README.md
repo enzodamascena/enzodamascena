@@ -4,7 +4,7 @@
 
 ```js
 const me = {
-    hability: 'Desenvolvimento Mobile',
+    speciality: 'Desenvolvimento Mobile',
     mainSkills: ['React Native', 'TypeScript'],
     softSkills: ['criatividade', 'determinação', 'crescimento']
 }
