@@ -17,7 +17,7 @@ Tenho 19 anos e sou um Desenvolvedor Mobile entusiasta do React Native, aqui est
 
 </br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Ninodev30&color=2143DC&line=ffff&point=1122AB&title_color=2143DC&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Ninodev30&color=2143DC&line=CCCCCC&point=1122AB&title_color=2143DC&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
 
 </br>
 
