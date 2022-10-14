@@ -1,12 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
 
-<h2>
-  Olá! me chamo Enzo
-</h2>
+## Olá! eu sou o Enzo
 
-Tenho 19 anos e sou um Desenvolvedor Mobile entusiasta do React Native, aqui estão alguns dos meus projetos. Atualmente estou trabalhando no aplicativo "daily-diet", que tal dar uma olhada no repositório? o app conta com navegação entre telas, armazenamento local e várias outras features.
-
-- 🔭 Focado em React Native e TypeScript.
+<div align='center'>
+  <img src='videos/TodoList-App/1.gif' width='180'>
+  <img src='videos/TodoList-App/2.gif' width='180'>
+</div>
 
 </br>
 
