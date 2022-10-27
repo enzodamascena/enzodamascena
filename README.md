@@ -9,14 +9,14 @@
   <img src='videos/TodoList-App/2.gif' width='180'>
 </div>
 
-</br>
+</br></br>
 
 <div width="100%" align="center">
   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninodev30&theme=github_dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninodev30&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-</br>
+</br></br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Ninodev30&color=2143DC&line=CCCCCC&point=1122AB&title_color=2143DC&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
 
