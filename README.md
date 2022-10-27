@@ -3,6 +3,8 @@
 ## Olá! eu sou o Enzo
 
 <div align='center'>
+  <img src='videos/daily-diet-app/play daily-diet lower.gif' width='180'>
+  <img src='videos/daily-diet-app/play daily-diet bigger.gif' width='180'>
   <img src='videos/TodoList-App/1.gif' width='180'>
   <img src='videos/TodoList-App/2.gif' width='180'>
 </div>
