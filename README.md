@@ -18,10 +18,6 @@
 
 </br></br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Ninodev30&color=2143DC&line=CCCCCC&point=1122AB&title_color=2143DC&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
-
-</br>
-
 <h2 align="left"><strong> Tech Skills </strong></h2>
 
 [![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
