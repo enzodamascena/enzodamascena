@@ -9,7 +9,7 @@
   <img src='videos/TodoList-App/2.gif' width='180'>
 </div>
 
-</br></br>
+</br></br></br>
 
 <div width="100%" align="center">
   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninodev30&theme=github_dark"/>
