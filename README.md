@@ -1,8 +1,8 @@
 ### Olá 👋
-Sou um Desenvolvedor React Native Apaixonado pelas melhores tecnologias de desenvolvimento web e mobile. Tenho experiência com projetos usando JavaScript, Typescript, ReactJS e React Native..
+Sou um Desenvolvedor React Native Apaixonado pelas melhores tecnologias de desenvolvimento mobile e web. Tenho experiência com projetos usando JavaScript, Typescript, ReactJS e React Native..
 
 - 🔭 Estou trabalhando atualmente na SmartMK.
-- 🌱 Eu tenho experiência com Typescript, ReactJS, e React Native.
+- 🌱 Eu tenho experiência com Typescript, React Native e ReactJS.
 
 </br>
 
