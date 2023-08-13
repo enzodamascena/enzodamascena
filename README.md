@@ -7,8 +7,8 @@ Sou um Desenvolvedor React Native Apaixonado pelas melhores tecnologias de desen
 </br>
 
 <div width="100%" align="center">
-  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ninodev30&theme=github_dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninodev30&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enzoodev&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoodev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 </br>
