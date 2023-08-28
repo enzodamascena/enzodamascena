@@ -2,7 +2,7 @@
 
 Engenheiro de Software especializado em JavaScript, React Native e ReactJS. Graduando em análise e desenvolvimento de sistemas.
 
-- 🔭 Trabalhando atualmente na SmartMK.
+- 🔭 Trabalhando atualmente na RemOpt.
 - 🌱 Tenho experiência com Javascript, Typescript, React Native e ReactJS.
 
 </br>
