@@ -1,9 +1,8 @@
 ### Olá 👋
 
-Engenheiro de Software especializado em JavaScript, React Native e ReactJS. Graduando em análise e desenvolvimento de sistemas.
+- 🔭 Engenheiro de software especializado no desenvolvimento Mobile e Web atuando em empresas dos segmentos de tecnologia e telecomunicações.
 
-- 🔭 Trabalhando atualmente na RemOpt.
-- 🌱 Tenho experiência com Javascript, Typescript, React Native e ReactJS.
+- 🌱 Experiência no desenvolvimento Mobile e Web com tecnologias como TypeScript, JavaScript, React Native, ReactJS e NextJS.
 
 </br>
 
