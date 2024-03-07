@@ -1,8 +1,7 @@
-### Olá 👋
+### Hello 👋
 
-- 🔭 Engenheiro de software especializado no desenvolvimento Mobile e Web atuando em empresas dos segmentos de tecnologia e telecomunicações.
-
-- 🌱 Experiência no desenvolvimento Mobile e Web com tecnologias como TypeScript, JavaScript, React Native, ReactJS e NextJS.
+I'm a Software Engineer. My specialty is developing Android and iOS Mobile Apps with React Native.
+I also have knowledge with Web development.
 
 </br>
 
