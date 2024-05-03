@@ -14,5 +14,4 @@ I also have knowledge with Web development.
 <div align="center"> 
     <a href="https://www.linkedin.com/in/enzo-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:enzodm.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://gitlab.com/enzoodev" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-1a1817?style=for-the-badge&logo=gitlab" target="_blank"></a> 
 </div>  
