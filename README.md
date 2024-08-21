@@ -2,8 +2,8 @@
 
 I am a software engineer specialized in frontend development
 
-- 🥰 Specialization developing applications using TypeScript, React Native, React, Next.
-- 🥳 Golang Enthusiast
+-  Specialization developing applications using TypeScript, React Native, React, Next.
+-  Golang Enthusiast
 
 </br>
 
