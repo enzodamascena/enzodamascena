@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a software engineer specialized in frontend development
+I am a software engineer specialized in mobile and frontend development
 
 -  Specialization developing applications using TypeScript, React Native, React, Next.
 
