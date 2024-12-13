@@ -2,11 +2,7 @@
 
 I am a software engineer specialized in mobile and frontend development
 
--  Specialization developing applications using TypeScript, React Native, React, Next.
-
-</br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=enzoodev&theme=blood-dark&hide_border=true&card_width=500&fire=EB5454&dates=EBC4C4)](https://git.io/streak-stats)
+-  Specialization developing applications using TypeScript, React Native, React, Next, Vue.
 
 </br>
 
