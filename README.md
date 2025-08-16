@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I am a software engineer specialized in frontend development(web and mobile).
+💻 Fullstack Software Engineer specializing in frontend development, with hands-on backend experience and team leadership.
 
--  Specialization developing applications using TypeScript, React Native, React, Next, Vue.
+-  Tech stack: TypeScript, React Native, React, Next, Vue, Java, Spring.
 
 </br>
 
