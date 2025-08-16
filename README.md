@@ -15,16 +15,10 @@ I work across the stack, from architecting frontend applications and backend ser
 </br>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoodev&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodamascena&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-</br>
+<div align="center">
+  <img height="200em" src="https://streak-stats.demolab.com?user=enzodamascena&theme=github-dark&hide_border=true"/>
+</div>
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/enzodamascena/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="mailto:enzodm.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>  
