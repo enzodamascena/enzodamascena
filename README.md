@@ -1,24 +1,15 @@
-### Hi there 👋  
+## About
 
-I’m Enzo a **Fullstack Software Engineer** passionate about building scalable **web and mobile applications**.  
-I work across the stack, from architecting frontend applications and backend services to integrating databases and CI/CD pipelines.
+4 years of experience in software engineering, focused on mobile and frontend development.
 
-💻 **Tech Stack:**  
-- Frontend: TypeScript, React, React Native, Next.js, Vue  
-- Backend: Java, Spring  
+**Experience with**
+- **Mobile:** React Native, Flutter, iOS, Android, Firebase
+- **Frontend:** React.js, Next.js, TypeScript, Redux, Zustand
+- **Backend & Infra:** Java, Spring, Docker, CI/CD, AWS
 
-📈 **What I do:**  
-- Architect and develop scalable applications  
-- Lead and mentor teams of developers  
-- Contribute across the stack, from design to deployment  
+**Highlights**
+- Built and scaled **6 production apps**, several from scratch to deployment
+- Reduced mobile crash rates by **70%+**
+- Improved end-user and operational workflows by **60–80%**
 
-</br>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzodamascena&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img height="200em" src="https://streak-stats.demolab.com?user=enzodamascena&theme=github-dark&hide_border=true"/>
-</div>
-
+Open to new challenges and enjoy taking ownership of products that deliver real impact. Always happy to connect.
