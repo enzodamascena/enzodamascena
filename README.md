@@ -1,6 +1,6 @@
 ## About
 
-4 years of experience in software engineering, focused on mobile and frontend development.
+3 years of experience in software engineering, focused on mobile and frontend development.
 
 **Experience with**
 - **Mobile:** React Native, Flutter, iOS, Android, Firebase
