@@ -1,15 +1,5 @@
-## About
+I’m currently working as a Full Stack Engineer building large-scale distributed systems using microservices and micro-frontend architectures. My work focuses on developing secure backend services with Java and Spring Boot while delivering scalable frontend applications with modern frameworks such as React and Next.js. I also contribute to architectural decisions and mentor developers to improve delivery quality and engineering efficiency. 
 
-3 years of experience in software engineering, focused on mobile and frontend development.
+With my years of professional experience, I specialize in Java, TypeScript, and modern full-stack ecosystems including Spring Boot, Node.js, React, and Next.js. I have hands-on experience with microservices architectures, API design using OpenAPI, containerization with Docker, and cloud environments such as AWS and Azure. My background also includes cross-platform mobile development with React Native and Flutter, as well as modern frontend tooling and testing frameworks.
 
-**Experience with**
-- **Mobile:** React Native, Flutter, iOS, Android, Firebase
-- **Frontend:** React.js, Next.js, TypeScript, Redux, Zustand
-- **Backend & Infra:** Java, Spring, Docker, CI/CD, AWS
-
-**Highlights**
-- Built and scaled **6 production apps**, several from scratch to deployment
-- Reduced mobile crash rates by **70%+**
-- Improved end-user and operational workflows by **60–80%**
-
-Open to new challenges and enjoy taking ownership of products that deliver real impact. Always happy to connect.
+I enjoy working in collaborative environments where strong engineering practices, clean architecture, and scalable systems are essential. I’m known for delivering reliable solutions on time, learning new technologies quickly, and contributing proactively to team success while continuously looking for new challenges in full-stack and cloud-native development.
