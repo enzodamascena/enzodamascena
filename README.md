@@ -1,5 +1,18 @@
-I’m currently working as a Full Stack Engineer building large-scale distributed systems using microservices and micro-frontend architectures. My work focuses on developing secure backend services with Java and Spring Boot while delivering scalable frontend applications with modern frameworks such as React and Next.js. I also contribute to architectural decisions and mentor developers to improve delivery quality and engineering efficiency. 
+## I'm Enzo 👋
 
-With my years of professional experience, I specialize in Java, TypeScript, and modern full-stack ecosystems including Spring Boot, Node.js, React, and Next.js. I have hands-on experience with microservices architectures, API design using OpenAPI, containerization with Docker, and cloud environments such as AWS and Azure. My background also includes cross-platform mobile development with React Native and Flutter, as well as modern frontend tooling and testing frameworks.
+I write code. Mostly TypeScript, Java and whatever else gets the job done.
 
-I enjoy working in collaborative environments where strong engineering practices, clean architecture, and scalable systems are essential. I’m known for delivering reliable solutions on time, learning new technologies quickly, and contributing proactively to team success while continuously looking for new challenges in full-stack and cloud-native development.
+---
+
+### stuff I use
+TypeScript • React • Next.js  
+Java • Spring Boot  
+and a bunch of libraries along the way
+
+---
+
+### outside of code
+traveling when I can  
+going to meetups  
+training bjj 🥋  
+telling some very questionable Brazilian jokes
