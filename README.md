@@ -1,5 +1,5 @@
 ## I'm Enzo 👋
 
-Stack: React, Next.js, React Native, TypeScript, Java, Spring, Go, Node.js, Docker, AWS, Azure.
+Stack: React, Java, Spring Boot, Next.js, TypeScript, Node.js, Go, React Native, Docker, AWS, Azure.
 
 Always open to a good conversation.
